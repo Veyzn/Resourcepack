@@ -1,0 +1,39 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/logo.png",
+            "ascent": 40,
+            "height": 40,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/biticon.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/ethicon.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/gemicon.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/money.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE008"]
+        }
+    ]
+}
